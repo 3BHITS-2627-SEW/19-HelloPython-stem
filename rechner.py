@@ -1,0 +1,6 @@
+print("Einfacher Taschenrechner: Gib zwei Zahlen ein und sie werden addiert.")
+zahl1 = input("Zahl 1: ")
+zahl2 = input("Zahl 2: ")
+zahl1 = int(zahl1)
+zahl2 = int(zahl2)
+print(zahl1, "+", zahl2, "=", zahl1 + zahl2)
